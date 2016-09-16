@@ -8,10 +8,15 @@ Jhonathan Córdoba Castañeda
  2- La raíz del proyecto cuenta con varias carpetas, de las cuales debemos entrar a "dist".
  
  3- Dentro de la carpeta "dist", se encuentran los siguientes archivos:
+ 
     a- DroneDeliver.jar - el cual ejecuta el programa si hacemos doble click sobre él.
+    
     b- Carpeta "archivostexto" - En la cual se encuentran dos carpetas más:
+    
        - Carpeta "in" - En la cual se encuentran los archivos inXX.txt.
+       
        - Carpeta "out" - La cual se encuentra vacía antes de ejecutar la aplicación, y en la que se generarán los archivos outXX.txt luego de ejecutar la aplicación.
+       
     c- Carpeta "javadoc" - La cual contiene la documentación de cada clase y de sus respectivos atributos y métodos, en el código.
     
  4- Una vez entendida la distribución de archivos dentro de la carpeta "dist", solo resta dar doble click en el archivo "DroneDeliver.jar" para luego ver los resultados arrojados en la ruta archivostexto -> out.
