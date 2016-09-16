@@ -1,0 +1,1 @@
+﻿Fichero donde serán creados los archivos outXX.txt
