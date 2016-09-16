@@ -66,7 +66,7 @@ public class GestorDron implements Runnable{
             nombreArchivo += "0";
         }
         
-        setGa(new GestorArchivos(nombreArchivo + getDron().getID()));
+        setGa(new GestorArchivos(""));
         
         String datos = getGa().lecturaDatos("in");
         
