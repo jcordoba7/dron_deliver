@@ -19,4 +19,4 @@ Jhonathan Córdoba Castañeda
        
     c- Carpeta "javadoc" - La cual contiene la documentación de cada clase y de sus respectivos atributos y métodos, en el código.
     
- 4- Una vez entendida la distribución de archivos dentro de la carpeta "dist", solo resta dar doble click en el archivo "DroneDeliver.jar" para luego ver los resultados arrojados en la ruta archivostexto -> out.
+ 4- Una vez entendida la distribución de archivos dentro de la carpeta "dist", solo resta dar doble click en el archivo "DroneDeliver.jar" para luego ver los resultados arrojados en la ruta dist -> archivostexto -> out.
